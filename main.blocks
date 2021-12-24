@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="%WI]Q@`o#P1B4l6ak@8e" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="^CP4t=[gwOc^:EK5#;y+"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_print_message" id="iII0pbP?E/_w=Twm_WE$"><value name="text"><shadow type="text" id="XCV[2j:hW9lJ]sEMSBte"><field name="TEXT">thank you</field></shadow></value><next><block type="device_show_leds" id="Vn_8;fS;{4)$=Ir?6X77"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="basic_show_icon" id="EzcK:-B9/Y4`=e?W+ii#"><field name="i">IconNames.No</field></block></next></block></next></block></next></block></statement></block><block type="playMelody" id="T*~)hC@Ax!o{c3$4sG9-" disabled="true" x="270" y="405"><value name="melody"><shadow type="melody_editor" id="]99{Wy,13z-ls:w8_$,L" disabled="true"><field name="melody">"B G - B F E C C5 "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="rqm4[+Xsa)q7#4ue-#ka" disabled="true"><mutation min="40" max="500" label="Tempo" precision="0"/><field name="SLIDER">120</field></shadow></value></block></xml>
